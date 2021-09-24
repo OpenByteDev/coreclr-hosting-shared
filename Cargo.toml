@@ -8,7 +8,7 @@ homepage = "https://github.com/OpenByteDev/coreclr-hosting-shared"
 documentation = "https://docs.rs/coreclr-hosting-shared"
 license = "MIT"
 authors = ["OpenByte <development.openbyte@gmail.com>"]
-edition = "2021"
+edition = "2018"
 categories = ["no-std", "external-ffi-bindings"]
 keywords = ["dotnet", "bindings", "coreclr"]
 
