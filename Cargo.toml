@@ -1,0 +1,16 @@
+[package]
+name = "coreclr-hosting-shared"
+version = "0.1.0"
+description = "Shared bindings for the coreclr hosting components."
+readme = "README.md"
+repository = "https://github.com/OpenByteDev/coreclr-hosting-sharedt"
+homepage = "https://github.com/OpenByteDev/coreclr-hosting-shared"
+documentation = "https://docs.rs/coreclr-hosting-shared"
+license = "MIT"
+authors = ["OpenByte <development.openbyte@gmail.com>"]
+edition = "2021"
+categories = ["no-std", "external-ffi-bindings"]
+keywords = ["dotnet", "bindings", "coreclr"]
+
+[dependencies]
+cty = "0.2"
