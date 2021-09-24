@@ -1,6 +1,6 @@
 [package]
 name = "coreclr-hosting-shared"
-version = "0.1.0"
+version = "0.1.1"
 description = "Shared bindings for the coreclr hosting components."
 readme = "README.md"
 repository = "https://github.com/OpenByteDev/coreclr-hosting-sharedt"
