@@ -4,7 +4,6 @@ version = "0.1.2"
 description = "Shared bindings for the coreclr hosting components."
 readme = "README.md"
 repository = "https://github.com/OpenByteDev/coreclr-hosting-sharedt"
-homepage = "https://github.com/OpenByteDev/coreclr-hosting-shared"
 documentation = "https://docs.rs/coreclr-hosting-shared"
 license = "MIT"
 authors = ["OpenByte <development.openbyte@gmail.com>"]
