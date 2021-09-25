@@ -12,17 +12,17 @@
 
 //! Shared bindings for the [coreclr hosting components](https://github.com/dotnet/runtime/blob/main/docs/design/features/native-hosting.md).
 //!
-//! # Related crates
+//! ## Related crates
 //! - [nethost-sys](https://crates.io/crates/nethost-sys) - bindings and downloader for the nethost library.
 //! - [hostfxr-sys](https://crates.io/crates/hostfxr-sys) - bindings for the hostfxr library.
 //! - [netcorehost](https://crates.io/crates/netcorehost) - rusty wrapper over the nethost and hostfxr libraries.
 //!
-//! # Additional Information
+//! ## Additional Information
 //! - [Hosting layer APIs](https://github.com/dotnet/core-setup/blob/master/Documentation/design-docs/hosting-layer-apis.md)
 //! - [Native hosting](https://github.com/dotnet/core-setup/blob/master/Documentation/design-docs/native-hosting.md#runtime-properties)
 //! - [Write a custom .NET Core host to control the .NET runtime from your native code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/netcore-hosting)
 //! 
-//! # License
+//! ## License
 //! Licensed under the MIT license ([LICENSE](https://github.com/OpenByteDev/netcorehost/blob/master/LICENSE) or <https://opensource.org/licenses/MIT>)
 
 /// Module for constants related to the coreclr hosting components or useful for interacting with them.
