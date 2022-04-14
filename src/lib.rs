@@ -7,7 +7,8 @@
     clippy::module_name_repetitions,
     clippy::multiple_crate_versions,
     clippy::doc_markdown,
-    non_camel_case_types, dead_code
+    non_camel_case_types,
+    dead_code
 )]
 
 //! Shared bindings for the [coreclr hosting components](https://github.com/dotnet/runtime/blob/main/docs/design/features/native-hosting.md).
@@ -21,7 +22,7 @@
 //! - [Hosting layer APIs](https://github.com/dotnet/core-setup/blob/master/Documentation/design-docs/hosting-layer-apis.md)
 //! - [Native hosting](https://github.com/dotnet/core-setup/blob/master/Documentation/design-docs/native-hosting.md#runtime-properties)
 //! - [Write a custom .NET Core host to control the .NET runtime from your native code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/netcore-hosting)
-//! 
+//!
 //! ## License
 //! Licensed under the MIT license ([LICENSE](https://github.com/OpenByteDev/netcorehost/blob/master/LICENSE) or <https://opensource.org/licenses/MIT>)
 
