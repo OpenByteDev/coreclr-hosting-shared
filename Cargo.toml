@@ -11,5 +11,5 @@ edition = "2021"
 categories = ["no-std", "external-ffi-bindings"]
 keywords = ["dotnet", "bindings", "coreclr"]
 
-[target.'cfg(all(not(windows), not(std)))'.dependencies]
+[target.'cfg(not(std))'.dependencies]
 cty = "0.2"
