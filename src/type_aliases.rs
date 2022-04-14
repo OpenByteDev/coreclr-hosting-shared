@@ -12,4 +12,4 @@ pub type char_t = u16;
 pub type char_t = u16;
 
 /// Equivalent to `size_t` in C.
-pub type size_t = usize; // TODO: use `core::os::raw::c_size_t` instead once stabilized.
+pub type size_t = usize; // TODO: use `core::ffi::c_size_t` instead once stabilized.
