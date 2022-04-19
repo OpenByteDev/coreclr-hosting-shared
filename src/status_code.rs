@@ -1,7 +1,7 @@
 /// Status codes returned by the hosting APIs from `hostfxr`, `hostpolicy` and `nethost`.
 ///
-/// Source: [https://github.com/dotnet/runtime/blob/main/docs/design/features/host-error-codes.md](https://github.com/dotnet/runtime/blob/main/docs/design/features/host-error-codes.md)
-/// Definitaion: [https://github.com/dotnet/runtime/blob/57bfe474518ab5b7cfe6bf7424a79ce3af9d6657/src/native/corehost/error_codes.h](https://github.com/dotnet/runtime/blob/57bfe474518ab5b7cfe6bf7424a79ce3af9d6657/src/native/corehost/error_codes.h)
+/// Source: <https://github.com/dotnet/runtime/blob/main/docs/design/features/host-error-codes.md>
+/// Definition: <https://github.com/dotnet/runtime/blob/57bfe474518ab5b7cfe6bf7424a79ce3af9d6657/src/native/corehost/error_codes.h>
 #[repr(u32)]
 #[non_exhaustive]
 #[rustfmt::skip]
